@@ -1,0 +1,53 @@
+/* CSS for toàn bộ trang web */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+
+/* Container bao quanh nội dung */
+.container {
+    background-color: bisque;
+    padding: 20px;
+}
+
+/* Tiêu đề chính */
+.title {
+    color: red;
+    background-color: aqua;
+    text-align: center;
+    padding: 10px;
+    font-size: 2em;
+}
+
+/* Đoạn văn bản nhỏ */
+.message {
+    color: brown;
+    text-align: center;
+    font-size: 1.2em;
+    margin-bottom: 20px;
+}
+
+/* Nội dung chính của trang */
+.content {
+    color: violet;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Cấu hình cho video */
+.video {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+}
+
+/* Cấu hình cho ảnh */
+.image {
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+    height: auto;
+}
